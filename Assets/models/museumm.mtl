@@ -1,0 +1,275 @@
+newmtl CircleFBXASC046000SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd topTeeth.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl CircleFBXASC046006SG
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 7.61
+newmtl CircleFBXASC046008SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 7.61
+newmtl CircleFBXASC046015SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd aoc.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl CubeFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coatOfArmsOthers.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl CubeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fireplaceMarble.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl Cube_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lionDiffuse.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl CylinderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fireplaceMetal.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl HalfSmallWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HalfSmallWall.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd leftBigWall.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bigWallLeft.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd leftBigWall.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd headers.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046007SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd borders.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046008SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fireplaceMetal.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046014SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046015SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pillars.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046017SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd leftPillar.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046018SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd borders2Bup.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046019SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd borders.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046020SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046021SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd borders2Bup.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046028SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd armory.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneFBXASC046042SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pillarsBottom.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl PlaneSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bigWallRight.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl SmallDoorSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd smallDoor.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl TemplateFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bigDoor.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl TemplateFBXASC046003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chimney.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl TemplateFBXASC046004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coatOfArms.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl WallpaperFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd topWoodBorder.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
+newmtl WallpaperSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wallpaper.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 7.61
